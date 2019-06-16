@@ -9,8 +9,8 @@ NumPy
 
 ## Facial Expression Recognition
 
-Run the Jupyter Notebook **FER.ipynb**, and follow the text instructions.
+Run the Jupyter Notebook ***FER.ipynb***, and follow the text instructions.
 
 ## Adversarial Attack and Defense
 
-Run **main.py**. Also open the config.py for configurations.
+Run ***main.py***. Also open the config.py for configurations.
